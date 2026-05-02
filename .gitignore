@@ -1,0 +1,18 @@
+# for macOS
+**/.DS_Store
+
+# VSCode
+.vscode/
+
+# Cursor
+.cursor/*
+!.cursor/rules/
+
+# Files generated during the LaTeX compilation process
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
