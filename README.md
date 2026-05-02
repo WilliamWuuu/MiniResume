@@ -5,5 +5,5 @@ Single-page minimal LaTeX résumé template aimed at researchers: clean typograp
 ## Preview
 
 <p align="center">
-  <img src="resume_preview.png" alt="MiniResume preview" width="360">
+  <img src="resume_preview.png" alt="MiniResume preview" width="530">
 </p>
